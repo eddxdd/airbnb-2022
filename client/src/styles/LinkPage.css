@@ -1,0 +1,12 @@
+.linkPage {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    text-align-last: center;
+  }
+
+  .linkPage__section {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }

@@ -1,0 +1,16 @@
+.places__section {
+    display: flex;
+    padding: 30px;
+}
+
+@media only screen and (max-width: 767px) {
+
+  .places__section {
+    margin: 20px 10px;
+  }
+  
+  .places__section {
+    flex-wrap: wrap;
+    padding: 0;
+  }
+}

@@ -1,0 +1,53 @@
+.loginPage {
+  padding: 20px 0;
+}
+
+.login__section {
+  text-align: center;
+  text-align-last: center;
+}
+
+  .login__form {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 300px;
+    padding: 20px;
+    margin: 50px auto;
+    border: 1px solid lightgray;
+  }
+
+  .button-container {
+    margin: auto;
+  }
+
+.login__button {
+    width: 200px;
+    text-transform: inherit !important;
+    background-color: #ff7779 !important;
+    color: white !important;
+    border: 1px solid lightgray;
+    border-radius: 999px;
+    margin: 10px auto;
+  }
+
+  .login__input__container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 300px;
+    height: 30px;
+    padding: 10px;
+    margin: 10px auto;
+    border: 1px solid lightgray;
+    border-radius: 999px;
+    outline-width: 0;
+}
+
+/* Change the white to any color */
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active{
+    -webkit-box-shadow: 0 0 0 30px white inset !important;
+}
