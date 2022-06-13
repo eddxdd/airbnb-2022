@@ -1,8 +1,9 @@
 # About
 
 This project was created for the purpose of practicing my react skills. The main component of this project is the JWT login authentication feature and the extensive backend.
-The frontend is very basic, but it should demonstrate enough knowledge of CSS/HTML/JS/React and a responsive design. I am aware there are a few design bugs here and there, it is because that was not the focus of this project.
-Though overall the project should still look nice and behave like a normal webpage.
+The frontend is very basic, but it should demonstrate enough knowledge of CSS/HTML/JS/React and a responsive design. 
+
+You may encounter a few CSS bugs here and there, it is because that was not the focus of this project. But for the most part the project should still look nice and behave like a normal webpage.
 
 ## `npm install`
 
