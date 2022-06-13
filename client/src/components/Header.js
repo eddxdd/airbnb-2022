@@ -36,7 +36,7 @@ function Header() {
 
       <div className="header__right">
         <a
-          href="https://github.com/eddxdd"
+          href="https://github.com/eddxdd/airbnb-2022"
           target="_blank"
           className="header__readme"
           rel="noopener noreferrer"
