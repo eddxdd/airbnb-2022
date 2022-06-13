@@ -20,7 +20,9 @@ Runs the backend on localhost:8080
 If cloning this repo, you will also need to install the packages for the backend, and create a .env file in the /server folder with these parameters:
 
 ACCESS_TOKEN_SECRET=INSERTTOKEN
+
 REFRESH_TOKEN_SECRET=INSERTREFRESHTOKEN
+
 DATABASE_URI=INSERTDATABASEURI
 
 ### Credits
