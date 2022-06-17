@@ -5,6 +5,8 @@ The frontend is very basic, but it should demonstrate enough knowledge of CSS/HT
 
 You may encounter a few CSS bugs here and there, it is because that was not the focus of this project. But for the most part the project should still look nice and behave like a normal webpage.
 
+## `Click on the avatar icon on the top right to be directed to the login page`
+
 ## `npm install`
 
 Installs the npm packages.
